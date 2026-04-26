@@ -1,5 +1,5 @@
 # Tea House API
-
+ 
 A simple FastAPI application for managing a tea collection with CRUD operations.
 
 ## Features
